@@ -1,4 +1,4 @@
-<img width="1784" height="981" alt="Screenshot 2025-12-27 150305" src="https://github.com/user-attachments/assets/bab98b1c-225b-4137-ae0e-b8e8e3d5ed03" /># 🚗 Driver Drowsiness Detection System 😴
+# 🚗 Driver Drowsiness Detection System 😴
 
 A real-time **Driver Drowsiness Detection System** developed using **Python, OpenCV, MediaPipe, NumPy, and Pygame**.  
 The system monitors a driver’s eye movement through a webcam and triggers an alarm when drowsiness is detected.
@@ -44,6 +44,7 @@ DriverDrowsinessDetection/
 3. Calculates Eye Aspect Ratio (EAR)  
 4. If eyes remain closed for a specific duration, the system detects drowsiness  
 5. An alarm sound is played to alert the driver  
+<img width="1784" height="981" alt="Screenshot 2025-12-27 150305" src="https://github.com/user-attachments/assets/9f6c93fb-0850-40b8-b47b-3e365f600cd7" />
 
 <img width="799" height="624" alt="Screenshot 2025-12-27 150420" src="https://github.com/user-attachments/assets/19ef645e-b1bb-4e69-8dda-90b5fe749240" />
 
