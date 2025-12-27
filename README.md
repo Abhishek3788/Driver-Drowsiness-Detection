@@ -44,7 +44,8 @@ DriverDrowsinessDetection/
 3. Calculates Eye Aspect Ratio (EAR)  
 4. If eyes remain closed for a specific duration, the system detects drowsiness  
 5. An alarm sound is played to alert the driver  
-<img width="1820" height="926" alt="Screenshot 2025-12-27 160812" src="https://github.com/user-attachments/assets/b7ca23ae-9132-4c8d-a819-4d336bdc0606" />
+<img width="1798" height="922" alt="Screenshot 2025-12-27 161419" src="https://github.com/user-attachments/assets/684cfaa9-5145-4b37-aae0-95f8cdf0bdf2" />
+
 
 <img width="1700" height="903" alt="Screenshot 2025-12-27 160852" src="https://github.com/user-attachments/assets/51b85e2f-b856-4806-9333-379750b82bd9" />
 
